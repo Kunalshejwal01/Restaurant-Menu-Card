@@ -1,0 +1,3 @@
+g++ restaurant.cpp -o restaurant.exe
+
+restaurant.exe

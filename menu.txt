@@ -1,0 +1,7 @@
+F|101|Burger|120
+F|102|Pizza|220
+F|103|Fries|90
+B|201|Cold Coffee|100
+B|202|Lemon Juice|60
+B|203|Coke|70
+B|204|Coke|70
